@@ -30,7 +30,7 @@
 ## ✨ About Me ✨
 <p align="left">
 
-  I'm a self thought Programmer 👨‍💻
+  I'm a self taught Programmer 👨‍💻
 
   I'm currently working as a freelance software developer 🚀, mostly making webscrapers 🕸️ and all sort of bots 🤖
 
