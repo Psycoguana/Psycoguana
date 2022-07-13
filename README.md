@@ -43,7 +43,7 @@
 
 **📫 How to reach me:**
 
-[<img src="https://img.shields.io/badge/-Email-EA4335?&style=flat&logo=mail-dot-ru&logoColor=white" />](mailto:fer.nico.sanchez@gmail.com)
+[<img src="https://img.shields.io/badge/-Email-EA4335?&style=flat&logo=mail-dot-ru&logoColor=white" />](mailto:nico@nico-dev.me)
 [<img src="https://img.shields.io/badge/-LinkedIn-0A66C2?&style=flat&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sanchez-nico/)
 
 #
