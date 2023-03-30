@@ -43,17 +43,24 @@
 
 **📫 How to reach me:**
 
-[<img src="https://img.shields.io/badge/-Email-EA4335?&style=flat&logo=mail-dot-ru&logoColor=white" />](mailto:nico@nico-dev.me)
+[<img src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white" />](https://discordapp.com/users/257257784368693258)  Psycoguana#7354
+
+[<img src="https://img.shields.io/badge/-Email-EA4335?&style=flat&logo=mail-dot-ru&logoColor=white" />](mailto:nico@nicodev.me)
 [<img src="https://img.shields.io/badge/-LinkedIn-0A66C2?&style=flat&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sanchez-nico/)
 
 #
 **🌱 I’m currently learning:**
-- <img src="https://img.shields.io/badge/--092E20?style=flat&logo=django&logoColor=white"> django
+
+- <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=white">
+- <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=white">
+- <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=F7DF1E">
+
 
 #
 **🔭 Languages, Frameworks and Tools**
 <p align="left">
   <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/-Flask-black?style=flat&logo=flask&logoColor=white">
   <img src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white">
